@@ -1,4 +1,4 @@
-# Masdian Portfolio
+# Masdian Space
 
 Personal portfolio website built with Next.js, TypeScript, Redux Toolkit, and TailwindCSS, integrated with a Headless CMS for dynamic content management.
 
@@ -50,7 +50,7 @@ npm run dev
 4. Open http://localhost:3000 to view in the browser.
 
 ## 📂 Project Structure
----
+```ruby
 .
 ├── components/         # Reusable React components
 ├── pages/              # Next.js pages & routes
@@ -60,7 +60,7 @@ npm run dev
 ├── types/              # TypeScript types
 ├── README.md           # This file
 └── next.config.js      # Next.js configuration
----
+```
 
 ## 🔮 Future Enhancements
 - Integrate Headless CMS API for portfolio data.
